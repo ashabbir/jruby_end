@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    jruby_mahout (0.2.2)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  jruby_mahout
+
+BUNDLED WITH
+   1.10.6

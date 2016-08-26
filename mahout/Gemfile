@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+
+platform :jruby do
+    gem "jruby_mahout"
+end

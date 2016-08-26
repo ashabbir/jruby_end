@@ -1,0 +1,13 @@
+# A sample Gemfile
+source "https://rubygems.org"
+
+gem 'awesome_print'
+gem 'pry'
+gem "mongo"
+gem 'bson'
+gem 'rake'
+gem 'dotenv'
+gem 'nokogiri'
+gem 'minitest-reporters'
+gem 'activesupport'
+gem 'datasift'
